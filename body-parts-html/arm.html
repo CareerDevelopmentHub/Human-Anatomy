@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Arm</title>
+    <style media="screen">
+      body{
+        background-color: #aeaffc;
+      }
+      button{
+        border-radius: 20px;
+        color: white;
+        background-color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+      <h1 style="color: whitesmoke;background-color: #3b3b5c;border-radius: 20px;width: 70%">Arm</h1>
+      <img src="body-parts-image/arm.jpg" style="width: 30%;height: 30%;border-radius: 20px" alt="">
+      <br>
+      <p style="font-weight: 800">1. What is  an Arm ?</p>
+      <br>
+      <p style="width: 50%">In human anatomy, the arm is the part of the upper limb between the glenohumeral joint (shoulder joint) and the elbow joint.
+      </p>
+      <button id="btn" type="button" name="button" onclick="audio.play();">Click: Pronounce</button>
+
+
+    </center>
+
+    <script type="text/javascript">
+      const audio = new Audio();
+      audio.src = "body-parts-sound/arm.mp3";
+    </script>
+
+
+  </body>
+</html>

@@ -1,0 +1,47 @@
+## Mapping data / coordinates of the image.
+<area target="" alt="Leg" title="Leg" href="body-parts-html/leg.html" coords="743,913,670,730" shape="rect">
+        <area target="" alt="Leg" title="Leg" href="body-parts-html/leg.html" coords="823,732,762,913" shape="rect">
+        <area target="" alt="Foot-Finger" title="Foot-Finger" href="body-parts-html/footfinger.html" coords="685,959,738,977" shape="rect">
+        <area target="" alt="Foot-Finger" title="Foot-Finger" href="body-parts-html/footfinger.html" coords="796,963,840,976" shape="rect">
+        <area target="" alt="Thigh" title="Thigh" href="body-parts-html/thigh.html" coords="648,498,837,662" shape="rect">
+        <area target="" alt="Belly" title="Belly" href="body-parts-html/belly.html" coords="664,296,818,437" shape="rect">
+        <area target="" alt="Knee" title="Knee" href="body-parts-html/knee.html" coords="700,707,22" shape="circle">
+        <area target="" alt="Knee" title="Knee" href="body-parts-html/knee.html" coords="790,707,25" shape="circle">
+        <area target="" alt="Hip" title="Hip" href="body-parts-html/hip.html" coords="258,489,45" shape="circle">
+        <area target="" alt="Hip" title="Hip" href="body-parts-html/hip.html" coords="336,489,46" shape="circle">
+        <area target="" alt="Chest" title="Chest" href="body-parts-html/chest.html" coords="662,202,829,279" shape="rect">
+        <area target="" alt="Head" title="Head" href="body-parts-html/head.html" coords="289,55,40" shape="circle">
+        <area target="" alt="Back" title="Back" href="body-parts-html/back.html" coords="218,175,364,406" shape="rect">
+        <area target="" alt="Leg" title="Leg" href="body-parts-html/leg.html" coords="300,533,383,973" shape="rect">
+        <area target="" alt="Leg" title="Leg" href="body-parts-html/leg.html" coords="294,972,200,537" shape="rect">
+        <area target="" alt="Hand" title="Hand" href="body-parts-html/hand.html" coords="172,179,204,198,202,251,201,306,199,350,174,459,166,551,133,563,108,507,143,453,158,204" shape="poly">
+        <area target="" alt="Hand" title="Hand" href="body-parts-html/hand.html" coords="384,204,411,182,427,254,436,314,450,404,465,464,490,508,483,555,471,566,459,563,446,546,412,418,393,368,380,282" shape="poly">
+        <area target="" alt="Head" title="Head" href="body-parts-html/head.html" coords="708,44,751,46,789,46,771,21,744,13,717,25" shape="poly">
+        <area target="" alt="Forehead" title="Forehead" href="body-parts-html/forehead.html" coords="709,47,784,47,787,68,709,66" shape="poly">
+        <area target="" alt="Lower-Abdominal" title="Lower-Abdominal" href="body-parts-html/lowerabdominal.html" coords="699,441,796,439,786,460,762,497,721,497,710,471" shape="poly">
+        <area target="" alt="Finger" title="Finger" href="body-parts-html/finger.html" coords="865,516,920,565" shape="rect">
+        <area target="" alt="Finger" title="Finger" href="body-parts-html/finger.html" coords="548,521,597,571" shape="rect">
+        <area target="" alt="Foot" title="Foot" href="body-parts-html/foot.html" coords="692,920,739,957" shape="rect">
+        <area target="" alt="Foot" title="Foot" href="body-parts-html/foot.html" coords="769,922,821,958" shape="rect">
+        <area target="" alt="Neck" title="Neck" href="body-parts-html/neck.html" coords="262,109,315,152" shape="rect">
+        <area target="" alt="Palm" title="Palm" href="body-parts-html/palm.html" coords="869,471,862,486,868,504,892,504,908,498,905,474,891,463" shape="poly">
+        <area target="" alt="Palm" title="Palm" href="body-parts-html/palm.html" coords="566,475,588,475,603,483,603,508,591,518,569,517,561,505,555,495" shape="poly">
+        <area target="" alt="Arm" title="Arm" href="body-parts-html/arm.html" coords="615,218,655,221,657,260,649,315,643,369,626,416,601,460,575,452" shape="poly">
+        <area target="" alt="Arm" title="Arm" href="body-parts-html/arm.html" coords="839,220,879,217,875,240,878,270,891,368,893,449,863,453,832,366,831,270" shape="poly">
+        <area target="" alt="Shoulder" title="Shoulder" href="body-parts-html/shoulder.html" coords="610,216,628,177,660,165,707,146,709,171,687,183,655,203,650,218" shape="poly">
+        <area target="" alt="Shoulder" title="Shoulder" href="body-parts-html/shoulder.html" coords="868,183,876,215,843,218,818,188,777,170,783,149,848,166" shape="poly">
+        <area target="" alt="Neck" title="Neck" href="body-parts-html/neck.html" coords="719,146,773,183" shape="rect">
+        <area target="" alt="Eye" title="Eye" href="body-parts-html/eye.html" coords="723,80,740,80,740,95,726,92" shape="poly">
+        <area target="" alt="Eye" title="Eye" href="body-parts-html/eye.html" coords="757,80,773,80,771,94,757,94" shape="poly">
+        <area target="" alt="Ear" title="Ear" href="body-parts-html/ear.html" coords="784,70,798,105" shape="rect">
+        <area target="" alt="Ear" title="Ear" href="body-parts-html/ear.html" coords="710,72,696,104" shape="rect">
+        <area target="" alt="Nose" title="Nose" href="body-parts-html/nose.html" coords="742,88,758,118" shape="rect">
+        <area target="" alt="Lip" title="Lip" href="body-parts-html/lip.html" coords="735,121,764,133" shape="rect">
+        <area target="" alt="Cheek" title="Cheek" href="body-parts-html/cheek.html" coords="771,108,13" shape="circle">
+        <area target="" alt="Cheek" title="Cheek" href="body-parts-html/cheek.html" coords="729,108,12" shape="circle">
+        <area target="" alt="Ear" title="Ear" href="body-parts-html/ear.html" coords="325,71,340,105" shape="rect">
+        <area target="" alt="Ear" title="Ear" href="body-parts-html/ear.html" coords="237,73,250,101" shape="rect">
+        <area target="" alt="Shoulder" title="Shoulder" href="body-parts-html/shoulder.html" coords="177,175,196,162,252,148,259,173" shape="poly">
+        <area target="" alt="Shoulder" title="Shoulder" href="body-parts-html/shoulder.html" coords="324,140,318,161,365,173,386,197,411,181" shape="poly">
+        
+        //End here.
