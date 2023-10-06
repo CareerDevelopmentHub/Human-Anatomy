@@ -1,4 +1,4 @@
-# Contributing to SOA-Notice-Scrapper
+# Contributing to Human Anatomy
 
 Thank you for your interest in contributing to Human Anatomy, The Human Anatomy is an interactive HTML project that provides a visual representation of the human body and its various parts. This project aims to make learning about human anatomy fun and engaging.
 
