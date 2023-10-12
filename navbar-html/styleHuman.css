@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Titania';
+    src: url("../assets/Titania-Regular.ttf");
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.videoFixed{
+    position: fixed;
+    text-align: end;
+    padding: 38px;
+    margin-left: 50px;
+}
+
+.videoFixed video{
+    width: 50%;
+    right: 10px;
+}
+
+.content{
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+    font-family: "Titania";
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+}
+
+ul, ol{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.attachment{
+    position: relative;
+    width: auto;
+    height: auto;
+}
+
+.attachment img{
+    position: relative;
+    z-index: -1;
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    overflow: hidden;
+}
