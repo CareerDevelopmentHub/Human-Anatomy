@@ -49,3 +49,13 @@ img{
 .content{
     padding: 20px;
 }
+b{
+    text-decoration: underline;
+}
+h1,h2,h3{
+    text-decoration: underline;
+}
+#head2{
+    text-decoration: none;
+    font-style: oblique;
+}

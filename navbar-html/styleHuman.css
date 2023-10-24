@@ -12,8 +12,8 @@
 }
 
 .videoFixed video{
-    width: 50%;
-    right: 10px;
+    width: 45%;
+    
 }
 
 .content{
@@ -22,19 +22,23 @@
 
 h1{
     text-align: center;
+    text-decoration: underline;
     font-family: "Titania";
 }
 h2{
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
+    text-decoration: underline;
 }
 p{
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
+
 }
 h3{
     font-family: 'Poppins', sans-serif;
     font-size: 25px;
+    text-decoration: underline;
 }
 
 ul, ol{
